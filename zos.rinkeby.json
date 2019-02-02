@@ -1,0 +1,32 @@
+{
+  "contracts": {
+    "SafeMath": {
+      "address": "0x0cbee35d7a4b11fff675ae3ff179b8715f4963f3",
+      "constructorCode": "608060405234801561001057600080fd5b506102f1806100206000396000f3fe",
+      "bodyBytecodeHash": "0cd62a22f6445cd3df1f7f504896adc61da59e10b2c2524e1e177ea441e9708b",
+      "localBytecodeHash": "efd41c62247645161de23a351d72c94261cf225a83b673e994ecc25220d8490b",
+      "deployedBytecodeHash": "efd41c62247645161de23a351d72c94261cf225a83b673e994ecc25220d8490b",
+      "types": {},
+      "storage": [],
+      "warnings": {
+        "hasConstructor": false,
+        "hasSelfDestruct": false,
+        "hasDelegateCall": false,
+        "hasInitialValuesInDeclarations": false,
+        "uninitializedBaseContracts": []
+      }
+    }
+  },
+  "solidityLibs": {},
+  "proxies": {
+    "SafeMath/SafeMath": [
+      {
+        "address": "0x778f078f4896c0e58b242fec3557e219156c2c78",
+        "version": "0.1.0",
+        "implementation": "0x0cbee35d7a4b11fff675ae3ff179b8715f4963f3"
+      }
+    ]
+  },
+  "zosversion": "2",
+  "version": "0.1.0"
+}

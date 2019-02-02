@@ -3390,6 +3390,12 @@
     "version": "0.5.2+commit.1df8f40c.Emscripten.clang"
   },
   "networks": {
+    "4": {
+      "links": {},
+      "events": {},
+      "address": "0x778f078f4896c0e58b242fec3557e219156c2c78",
+      "updated_at": 1549109360036
+    },
     "1548946712083": {
       "links": {},
       "events": {},
