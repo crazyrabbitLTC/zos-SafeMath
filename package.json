@@ -1,0 +1,20 @@
+{
+  "name": "zos-SafeMath",
+  "version": "1.0.0",
+  "description": "An EVM package implementation of OpenZeppelin-Solidity SafeMath",
+  "main": "truffle-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crazyrabbitLTC/zos-SafeMath.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crazyrabbitLTC/zos-SafeMath/issues"
+  },
+  "homepage": "https://github.com/crazyrabbitLTC/zos-SafeMath#readme"
+}
