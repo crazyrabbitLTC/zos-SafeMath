@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/crazyrabbitLTC/zos-SafeMath/issues"
   },
-  "homepage": "https://github.com/crazyrabbitLTC/zos-SafeMath#readme"
+  "homepage": "https://github.com/crazyrabbitLTC/zos-SafeMath#readme",
+  "dependencies": {
+    "truffle": "^5.0.3"
+  }
 }
